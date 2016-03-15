@@ -1,0 +1,8 @@
+{
+  "private": true,
+  "name": "z-linked",
+  "version": "1.0.0",
+  "devDependencies": {
+    "react-dom": "0.14.7"
+  }
+}
